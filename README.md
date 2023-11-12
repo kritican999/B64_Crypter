@@ -2,7 +2,7 @@ B64 Crypter
 
 The crypter needs python v3.+, make sure to install python to your pc otherwise it won't work.
 
-Python: https://www.python.org/downloads/
+Usage: sudo python3 B64_Crypter.py
 
 NOTE: Don't upload the encrypted file to any online scanner, otherwise the FUD file won't be undetected anymore. You are getting private stub method to get different encrypted code each time (increasing bypass ratio) so respect it and don't spoil the method. May be you won't get any such free tool next time. 
 
